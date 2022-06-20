@@ -70,7 +70,7 @@
         "bufferutil": "^4.0.1",
         "mpris-service": "^2.1.0",
         "utf-8-validate": "^5.0.2",
-        "win-node-env": "^0.4.0",
+        "win-node-env": "^0.6.1",
         "windows.media.playback": "git+https://github.com/NovusTheory/nodert-windows.media.playback.git"
     }
 }
